@@ -1,5 +1,4 @@
 
-![Visitor's Count](https://profile-counter.glitch.me/anaer/count.svg)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anaer&theme=solarized_dark&utcOffset=8)
 
